@@ -11,3 +11,5 @@ Advantages of asset management software
 •	Timely reporting of the performance of these assets
 
 Have a glance at TYASuite Asset Management Software which with its unique features like warranty management, asset lifecycle tracking system, QR code system, depreciation management, asset audit facility and more helps in streamlining your business processes. Try the free trial version today!
+
+Link: https://www.tyasuite.com/asset-management-software
